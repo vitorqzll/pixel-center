@@ -104,8 +104,8 @@ nav a:hover::after {
     white-space: nowrap;
     overflow: hidden;
     border-right: 3px solid rgb(244, 190, 190);
-    width: 24ch;
-    animation: typing 10s steps(24, end) infinite, blink 0.5s step-end infinite;
+    width: 23ch;
+    animation: typing 10s steps(23, end) infinite, blink 0.5s step-end infinite;
     animation-delay: 3s;
     text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
 }
@@ -115,10 +115,10 @@ nav a:hover::after {
         width: 0;
     }
     70% {
-        width: 24ch;
+        width: 23ch;
     }
     100% {
-        width: 24ch;
+        width: 23ch;
     }
 }
 
