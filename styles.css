@@ -80,7 +80,7 @@ nav a:hover::after {
 .home .item {
     display: flex;
     flex-wrap: wrap;
-    height: 100px;
+    height: 80px;
     width: 800px;
     overflow: hidden;
     background-color: rgba(244, 190, 190, 0.2);
